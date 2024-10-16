@@ -1,0 +1,1 @@
+Processed matfiles with data. Use filenames that explain what the dimensions of the variables are. E.g. PcntSubCond means stridenormalized data with percent stride in the first dimension, subjects in the second, and conditions in the third.

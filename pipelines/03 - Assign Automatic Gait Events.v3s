@@ -1,0 +1,18 @@
+Select_Active_File
+/FILE_NAME=ALL_FILES
+! /QUERY=
+;
+
+Event_Delete
+/EVENT_NAME= LON+LOFF+RON+ROFF
+! /EVENT_SEQUENCE=
+! /EXCLUDE_EVENTS=
+! /EVENT_INSTANCE=
+! /TIME=
+;
+
+Automatic_Gait_Events
+! /FRAME_WINDOW=8
+! /USE_TPR=TRUE
+;
+
