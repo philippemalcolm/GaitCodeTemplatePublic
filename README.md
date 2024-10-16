@@ -4,7 +4,7 @@ Run this command in MATLAB to clone the code and folder structure.
 
 restoredefaultpath
 
-!git clone https://github.com/philippemalcolm/GaitCodeTemplate
+!git clone https://github.com/philippemalcolm/GaitCodeTemplatePublic
 
 cd GaitCodeTemplate
   
