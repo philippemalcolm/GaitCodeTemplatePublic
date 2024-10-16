@@ -9,8 +9,8 @@
 
 %% Settings
 AccountName = 'philippemalcolm';
-RepositoryName = 'GaitCodeTemplate';
-% ZIP_FILE_NAME = 'GaitCodeTemplate.zip';
+RepositoryName = 'GaitCodeTemplatePublic';
+% ZIP_FILE_NAME = 'GaitCodeTemplatePublic.zip';
 REPO_ZIP_URL = ['https://github.com/',AccountName,'/',RepositoryName,'/archive/refs/heads/main.zip'];
 AccesToken = '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';
 DEST_SUBFOLDER = 'FUNCTIONS';
